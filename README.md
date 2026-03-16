@@ -5,13 +5,10 @@
 <h1 style="color: #00bfff;">Welcome to my digital underground! 🌐</h1>
 
 <p align="center">
-<a href="https://twitter.com/Your_Twitter">
-<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
-</a>
-<a href="https://linkedin.com/in/Your_LinkedIn">
+<a href="https://www.linkedin.com/in/aliakbar-babayev-88615334a/">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="https://your-website.com">
+<a href="https://github.com/ali-ctf-player">
 <img src="https://img.shields.io/badge/Website/Blog-%23000000.svg?style=for-the-badge&logo=ghost&logoColor=white" alt="Website">
 </a>
 </p>
@@ -43,10 +40,10 @@
 
 <!-- BADGES: Replace 'Your_Username' with your actual THM and HTB usernames -->
 
-<a href="https://tryhackme.com/p/Your_Username">
+<a href="https://tryhackme.com/p/babayevf">
 <img src="https://img.shields.io/badge/TryHackMe-Your_Username-00bfff?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Badge">
 </a>
-<a href="https://app.hackthebox.com/profile/Your_HTB_ID">
+<a href="https://app.hackthebox.com/users/3022666">
 <img src="https://img.shields.io/badge/HackTheBox-Your_Username-90ee90?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HackTheBox Badge">
 </a>
 
