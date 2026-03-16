@@ -47,16 +47,4 @@
 <img src="https://img.shields.io/badge/HackTheBox-Your_Username-90ee90?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HackTheBox Badge">
 </a>
 
-📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Your_Username&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-
-
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Your_Username&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
-</p>
-
 </div>
