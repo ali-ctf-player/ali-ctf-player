@@ -1,11 +1,4 @@
 ```bash
-> whoami
-root
-> ./start_profile.sh
-[+] Initializing connection...
-[+] Payload deployed successfully.
-[+] Welcome to [Your_Username]'s workspace.
-```
 
 <div align="center">
 
