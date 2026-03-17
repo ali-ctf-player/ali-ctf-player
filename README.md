@@ -38,13 +38,13 @@
 
 🎯 CTF Platforms
 
-<!-- BADGES: Replace 'Your_Username' with your actual THM and HTB usernames -->
+
 
 <a href="https://tryhackme.com/p/babayevf">
-<img src="https://img.shields.io/badge/TryHackMe-Your_Username-00bfff?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Badge">
+<img src="https://img.shields.io/badge/TryHackMe-babayevf-00bfff?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Badge">
 </a>
 <a href="https://app.hackthebox.com/users/3022666">
-<img src="https://img.shields.io/badge/HackTheBox-Your_Username-90ee90?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HackTheBox Badge">
+<img src="https://img.shields.io/badge/HackTheBox-babayevvv-90ee90?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HackTheBox Badge">
 </a>
 
 </div>
