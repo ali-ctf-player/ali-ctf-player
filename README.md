@@ -63,8 +63,8 @@ methodologies, and CTF challenges. I find the gaps before the bad guys do.
 ### GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ali-ctf-player&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-ctf-player&layout=compact&theme=github_dark&hide_border=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=aliakbar-babayev&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliakbar-babayev&layout=compact&theme=github_dark&hide_border=true" height="150">
 </p>
 
 </div>
