@@ -53,7 +53,6 @@ methodologies, and CTF challenges. I find the gaps before the bad guys do.
 | Badge | Certification | Issuer | Status |
 |-------|--------------|--------|--------|
 | ✅ | **CompTIA Security+** | CompTIA | Certified |
-| 🔄 | **eCPPT** — eLearnSecurity Junior Penetration Tester | INE Security | In Progress |
 | 🔄 | **CPTS** — Certified Penetration Testing Specialist | Hack The Box | In Progress |
 
 > Currently on the path: **Security+** → **eJPT** → **CPTS**
